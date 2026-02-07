@@ -1,5 +1,7 @@
 # Graphing Calculator
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-green?style=for-the-badge&logo=github)](https://alkhemrt.github.io/Graphing-Calculator/)
+
 <img width="1919" height="914" alt="Screenshot 2026-02-07 164806" src="https://github.com/user-attachments/assets/e01ac9ec-41cf-459c-bda3-89a13a8af578" />
 
 ### Description:
