@@ -57,3 +57,5 @@ To fix this, I gave each equation a unique identifier upon creation and colors a
 The initial implementation required users to write equations in JavaScript syntax: `2*x` instead of `2x`, `Math.sin(x)` instead of `sin(x)`. This was simply way too unintuitive to use.
 
 I had to create a parsing system in `parseEquation()` that automatically insets multiplication operators between numbers and variables (`2x` → `2*x`) and converts mathematical shorthand to JavaScript functions (`sin(x)` → `Math.sin(x)`) and handles exponent notation (`x^2` → `x**2`) and recognizes and supports common mathematical constants (`pi` → `Math.PI`).
+
+<img width="1919" height="911" alt="Screenshot 2026-02-07 165547" src="https://github.com/user-attachments/assets/91add910-2314-46e9-98cc-850a23007609" />
